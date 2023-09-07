@@ -1,0 +1,43 @@
+
+.prueba {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .prueba h3 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .prueba button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .prueba button:hover {
+    background-color: #2980b9;
+  }
+  
+  .prueba a {
+    display: block;
+    text-align: center;
+    background-color: #2ecc71;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+  
+  .prueba a:hover {
+    background-color: #27ae60;
+  }
+  

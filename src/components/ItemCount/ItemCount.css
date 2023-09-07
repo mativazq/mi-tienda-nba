@@ -1,0 +1,38 @@
+.miBtn {
+    background-color: #c1101a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+.miBtn:hover {
+    background-color: #a10814;
+}
+
+.parrafo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.btnAgregar{
+    background-color: #3498db; 
+    color: white;
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 5px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    margin-top: 20px;
+}
+
+.btnAgregar:hover {
+    background-color: #2980b9;
+}

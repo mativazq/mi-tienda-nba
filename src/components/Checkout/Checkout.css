@@ -1,0 +1,34 @@
+
+.checkout {
+    font-size: 56px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+.form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .form-group:last-child {
+    margin-bottom: 20px;
+  }
+  

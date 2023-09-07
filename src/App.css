@@ -1,0 +1,12 @@
+*{
+  max-width: 2600px;
+}
+
+.titulo{
+  font-size: 150px;
+  color: #FF0000;
+  text-align: center;
+  letter-spacing: 4px;
+  font-weight: bold;
+  text-shadow: 8px 8px 12px rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,15 @@
+.footer{
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  .nombre-enlace {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .nombre-enlace:hover {
+    color: blue;
+  }
